@@ -207,7 +207,7 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 	font-weight: 300;
 }
 #bloc-2 p{
-	font-size: 18px;
+	font-size: 16px;
 }
 #menu-bloc h2{
 	text-shadow: rgba(0, 0, 0, 0.298039) 0px 1px 2px;
@@ -433,6 +433,18 @@ nav .caret{
 	margin-top:10px;
 	margin-bottom:40px;
 }
+img.mg-sm,img.mg-md,img.mg-lg{
+	margin-top: 0;
+}
+img.mg-sm{
+	margin-bottom:10px;
+}
+img.mg-md{
+	margin-bottom:30px;
+}
+img.mg-lg{
+	margin-bottom:50px;
+}
 
 /* = Buttons
 -------------------------------------------------------------- */
@@ -467,6 +479,11 @@ button{
 }
 .dropdown a .caret{
 	margin:0 0 0 5px}
+/* = Icons
+-------------------------------------------------------------- */
+.icon-md{
+	font-size:30px!important;
+}
 
 /* Image Frame */
 .img-frame,.img-frame-md,.img-frame-lg,.img-frame-rd,.img-frame-rd-md,.img-frame-rd-lg{
