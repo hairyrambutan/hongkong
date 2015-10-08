@@ -288,7 +288,7 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 #form-bloc p{
 	font-size: 16px;
 }
-#bloc-24 p{
+#bloc-25 p{
 	font-size: 12px;
 }
 
@@ -593,9 +593,6 @@ iframe{
 }
 .bgc-dark-pastel-red{
 	background-color:#c0392b;
-}
-.bgc-medium-sea-green{
-	background-color:#27ae60;
 }
 /* Text colour styles */
 
